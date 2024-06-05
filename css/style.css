@@ -8,8 +8,8 @@
 * Facebook: https://web.facebook.com/Untree.co/
 */
 body {
-  font-family: "Crimson Text", serif;
-  line-height: 1.5;
+  font-family: "Titillium Web", sans-serif;
+    line-height: 1.5;
   font-size: 15px;
   color: #000000;
   background: #fff; }
@@ -42,7 +42,7 @@ a {
 
 h1, h2, h3, h4, h5 {
   color: #000;
-  font-family: "Playfair Display", serif; }
+  font-family: "Titillium Web", sans-serif;}
 
 .text-primary {
   color: #000 !important; }
@@ -59,8 +59,7 @@ a.text-primary {
   background-color: #000 !important; }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
-  font-family: "Playfair Display", serif; }
-
+  font-family: "Titillium Web", sans-serif;}
 .btn {
   padding-top: 12px;
   padding-bottom: 12px;
@@ -134,7 +133,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   height: 100%;
   position: fixed;
   z-index: 7100;
-  background: #d4a22f;
+  background: #ff91eb;
   top: 0;
   left: 0;
   right: 0;
@@ -154,7 +153,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 
 .logo {
   font-size: 25px;
-  font-family: "Playfair Display", serif;
+  font-family: "Titillium Web", sans-serif;
   font-weight: bold; }
   .logo a {
     color: #000; }
@@ -671,8 +670,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       -ms-transform: scale(1);
       transform: scale(1); }
   .product h3 {
-    font-family: "Playfair Display", serif;
-    font-size: 18px; }
+    font-family: "Titillium Web", sans-serif;    font-size: 18px; }
   .product strong {
     font-weight: 700;
     font-size: 20px; }
@@ -699,7 +697,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   text-transform: uppercase; }
 
 .serif {
-  font-family: "Playfair Display", serif; }
+  font-family: "Titillium Web", sans-serif;}
 
 .section-4 .custom-prev-v2, .section-4 .custom-next-v2 {
   font-size: 14px;
@@ -1222,8 +1220,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   .article .share {
     top: 20px; }
     .article .share h3 {
-      font-family: "Playfair Display", serif;
-      font-size: 12px; }
+  font-family: "Titillium Web", sans-serif;
+        font-size: 12px; }
       @media (max-width: 991.98px) {
         .article .share h3 {
           display: inline-block; } }
